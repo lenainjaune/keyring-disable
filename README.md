@@ -1,4 +1,4 @@
-# keyring-disable HOWTO
+# keyring disable HOWTO
 Tout ce qu'il faut savoir sur la désactivation du porte clé sous Linux
 
 Contexte : quand on utilise l'autologin, le porte clé ne se déverrouille pas puisque c'est le mdp entré manuellement lors du login qui permet de déverrouiller. Il en résulte que le lancement de certaines applications "à risques" (telle remmina), afficheront cette demande de mdp pour déverrouiller avant d'utiliser l'application. Ce qui sera ennuyeux pour un utilisateur occasionnel qui ne connait pas le mdp et qui veut juste utiliser le PC.
