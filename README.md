@@ -1,3 +1,50 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # keyring disable HOWTO
 Tout ce qu'il faut savoir sur la désactivation du porte clé sous Linux
 
